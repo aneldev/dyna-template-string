@@ -1,0 +1,1 @@
+export {dynaTemplateString} from "./dynaTemplateString";

@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`dynaTemplateString A Variable 1`] = `"Hello John! How are you John today?"`;
+
+exports[`dynaTemplateString Undefined variable 1`] = `
+"Hello Mr Smith!
+The report will be ready at \${date}"
+`;
+
+exports[`dynaTemplateString Variables and line breaks 1`] = `
+"Hello Mr Smith!
+Will be a long day John. You won't forget your name John!"
+`;
